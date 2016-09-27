@@ -1,1 +1,1 @@
-Software de Gestión de Turnos
+Software de Gestión de Turnos.
